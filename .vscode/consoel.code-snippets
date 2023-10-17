@@ -1,0 +1,9 @@
+{
+	"javaScript": {
+	 	"prefix": "console:js",
+	 	"body": [
+	 		"console.log(`${}`);",
+	 	],
+	 	"description": "Console log"
+	 }
+}
